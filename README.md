@@ -125,8 +125,8 @@ Demo mode is enabled by default unless `VITE_USE_DEMO_MODE=false` is set in the 
 ### 1. Clone and enter the project
 
 ```bash
-git clone <your-repository-url>
-cd "Student Portal"
+git clone https://github.com/Harishreddyyarramada/Student-Portal---CampusSphere.git
+cd Student-Portal---CampusSphere
 ```
 
 ### 2. Install dependencies
