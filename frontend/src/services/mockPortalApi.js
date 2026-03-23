@@ -141,7 +141,7 @@ const seedUsers = [
     enrolledCourses: ['course-ux-101', 'course-ai-205', 'course-data-330'],
     createdAt: '2026-03-21T09:30:00.000Z',
     avatar:
-      '',
+      'https://media.istockphoto.com/id/2105091005/photo/young-student-taking-notes-while-e-learning-on-laptop-at-the-university.jpg?s=612x612&w=0&k=20&c=5AoTWNFmHm-HeQfx0FzB3LPm3MKQXgokYelEvmC_47E=',
     department: 'Computer Science',
     title: 'Final Year Student',
     phone: '+91 99887 66554',
