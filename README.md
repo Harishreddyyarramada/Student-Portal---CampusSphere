@@ -224,6 +224,15 @@ Run from `backend/` or use `--prefix backend`.
 - `npm run dev` - starts the backend with Nodemon
 - `npm run start` - starts the backend with Node
 
+## Render Deployment Notes
+
+If you deploy the backend to Render from the `backend/` directory, use one of these start commands:
+
+- `npm start`
+- `node server.js`
+
+Linux file systems are case-sensitive, so `node Server.js` can fail even though it may appear to work on Windows.
+
 ## Environment Variables
 
 ### Frontend
